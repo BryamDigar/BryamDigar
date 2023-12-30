@@ -6,7 +6,7 @@
 - 📖 <em>Computer engineering student at <a href="https://www.unisabana.edu.co">Universidad de la Sabana</a>
 - 🌱 <em>Currently learning <a href="https://www.educative.io/path/zero-to-hero-in-python">Python</a>
 - 🌆 <em>I'm from Bogota Colombia and I'm 19 years old
-- 🤖 <em>Researcher in the Applied Robotics Research Group.
+- 🤖 <em>Researcher in <a href="https://www.unisabana.edu.co/nosotros/subsitios-especiales/somos-la-primera-universidad-colombiana-en-robocup/">the Applied Robotics Research Group</a>.
 - 🎓 <em>Certified <a href="https://unisabana.evolutool.com/index.php/6fe238abab086f347e5f52ade5889a36/d05d16c8ac4a346636fb1e3b3a2ad795">Tallerista</a> of CREA.
 - 🧠 <em>In the process of creating an IEEE (CIS) Chapter.
 - 🙋‍♂️ I speak Spanish (native language) and English (B1.2 level)
